@@ -542,5 +542,5 @@ files:
     \     println(row.joinToString(separator=\"\"))   \n    }\n}\n"
   learner_created: false
 feedback_link: https://hyperskill.org/projects/8/stages/49/implement
-status: Failed
-record: -1
+status: Solved
+record: 4
